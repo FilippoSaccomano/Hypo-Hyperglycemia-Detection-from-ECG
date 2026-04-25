@@ -28,7 +28,7 @@ Cutoffs used:
 - Hypo side: 55, 60, 65, 70, 75, 80, 85, 90 mg/dL  
 - Hyper side: 150, 165, 180, 200, 225, 250 mg/dL
 
-## Results (from the report)
+## Results 
 MF Fusion performs best on average:
 - Hypoglycemia: **AUC 0.813 ± 0.155**
 - Hyperglycemia: **AUC 0.755 ± 0.156**
